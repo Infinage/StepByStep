@@ -1,5 +1,5 @@
 # StepByStep 🏅
-This repo doesn't just contain codes to solve these simple programs, rather it aims to give you a framework to approach any problem. All of the notebooks tackle their problems with the same sequences of logical steps. 
+This repo doesn't just contain codes to solve these simple programs, rather it aims to give you a framework to approach any problem. All of the notebooks tackle their problems with the same sequence of logical steps. 
 
 ## How to use it? 🤔
 1. Hit up [Google Colaboratory](colab.research.google.com/).
