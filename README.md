@@ -9,3 +9,4 @@ This repo doesn't just contain codes to solve these simple programs, rather it a
 
 ## List of Notebooks 📌
 1. Matrix Multiplication
+2. Word Search
