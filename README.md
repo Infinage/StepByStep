@@ -8,5 +8,6 @@ This repo doesn't just contain codes to solve these simple programs, rather it a
 5. Choose the Notebook you want to start running it interactively on Colab!
 
 ## List of Notebooks 📌
-1. Matrix Multiplication
-2. Word Search
+1. Caesar Cipher
+2. Matrix Multiplication
+3. Word Search
