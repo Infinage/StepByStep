@@ -9,5 +9,6 @@ This repo doesn't just contain codes to solve these simple programs, rather it a
 
 ## List of Notebooks 📌
 1. Caesar Cipher
-2. Matrix Multiplication
-3. Word Search
+2. Vigenère Cipher
+3. Matrix Multiplication
+4. Word Search
