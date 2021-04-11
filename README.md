@@ -12,3 +12,4 @@ This repo doesn't just contain codes to solve these simple programs, rather it a
 2. Vigenère Cipher
 3. Matrix Multiplication
 4. Word Search
+5. Minesweeper
