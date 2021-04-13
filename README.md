@@ -8,8 +8,9 @@ This repo doesn't just contain codes to solve these simple programs, rather it a
 5. Choose the Notebook you want to start running it interactively on Colab!
 
 ## List of Notebooks 📌
-1. Caesar Cipher
-2. Vigenère Cipher
-3. Matrix Multiplication
-4. Word Search
-5. Minesweeper
+1. Cows & Bulls
+2. Caesar Cipher
+3. Vigenère Cipher
+4. Matrix Multiplication
+5. Word Search
+6. Minesweeper
